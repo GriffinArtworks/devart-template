@@ -23,14 +23,6 @@ Provides an opportunity to think about some areas that I find personal interesti
 * Defining a suitable search space: too much variation and it becomes hard to find something nice.
 * Use of machine learning to help pick better points to mine from.
 
-## Link to Prototype
-
-## Links to External Libraries
-
-[Example Link](http://www.google.com "Example Link")
-
 ## Images & Videos
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
