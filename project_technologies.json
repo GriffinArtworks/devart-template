@@ -1,16 +1,20 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "openframeworks",
+            "opengl"
         ],
         "platforms": [
-            "insert platforms"
+            "windows",
+            "android"
         ],
         "toolkits": [
-            "insert toolkits"
+             "Prediction API",
+            "CustomSearch API"
         ]
     },
     "themes": [
-        "insert themes"
+        "abstract art",
+        "fractal"
     ]
 }
