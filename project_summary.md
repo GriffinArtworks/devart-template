@@ -1,5 +1,4 @@
-# Project Title
-Generative Art Mining
+# Generative Art Mining
 
 ## Authors
 - [David Hoe](https://github.com/davidhoe)
