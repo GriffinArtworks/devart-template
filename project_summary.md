@@ -1,32 +1,35 @@
 # Project Title
-Insert the name of your project
+Generative Art Mining
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- [David Hoe](https://github.com/davidhoe)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+
+**What:**
+
+An interactive tool to explore generative abstract art in a quick, simple and tactical way.  Give users a way to manipulate something that's traditionally only allowed to be viewed. They can explore the variations around that piece in real-time, or simply start in a new mining location and generate something new.
+
+Potential takeaway (if they mine something they like):
+1. high-res digital version.
+2. Enter into free prize draw where they could win a real canvas print of it (e.g. one winner a week).
+
+**Why:**
+
+Provides an opportunity to think about some areas that I find personal interesting:
+
+* Identifying a simple control mechanic that people of all ages can use.
+* Efficient rendering techniques for real-time generation, needs to be quick!
+* Defining a suitable search space: too much variation and it becomes hard to find something nice.
+* Use of machine learning to help pick better points to mine from.
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
-[Example Link](http://www.google.com "Example Link")
-
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
 ## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
 
 [Example Link](http://www.google.com "Example Link")
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
