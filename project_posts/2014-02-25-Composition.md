@@ -68,7 +68,7 @@ M = RootMat*M;
 
 .. the wireframe:
 
-![image](../project_images/comp/wireframe1.png?raw=true "image")
+![image](../project_images/comp/wireframe1.PNG?raw=true "image")
 
 
 .. another variation, zoomed in slightly:
