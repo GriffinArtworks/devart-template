@@ -13,13 +13,12 @@ The idea then is to keep recursing using the same child coordinates spaces to fo
 
 The transform matrix of the each of the 4 leaf nodes (depth 2) would then be:
 
-```M0 = R * C[0] * C[0] ```
-
-```M1 = R * C[0] * C[1] ```
-
-```M2 = R * C[1] * C[0] ```
-
-```M3 = R * C[1] * C[1] ```
+```
+M0 = R * C[0] * C[0]; 
+M1 = R * C[0] * C[1];
+M2 = R * C[1] * C[0]; 
+M3 = R * C[1] * C[1]; 
+```
 
 where ```Mx```,```R```,```C[i]``` are all 3x3 matrices. 
 
@@ -58,7 +57,7 @@ M = RootMat*M;
 
 ![image](../project_images/comp/fractal4.png?raw=true "image")
 
-.. let's mix it up a bit more, playing the rotation:
+.. let's mix it up a bit more, playing with rotation:
 
 ![image](../project_images/comp/fractal5.png?raw=true "image")
 
