@@ -75,6 +75,5 @@ M = RootMat*M;
 
 ![image](../project_images/comp/fractal7.png?raw=true "image")
 
-
-Here's a video:
+.
 
