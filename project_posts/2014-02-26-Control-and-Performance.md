@@ -1,5 +1,5 @@
 
-## Test Device ##
+### Test Device
 
 I ordered a Powermate to test with:
 
@@ -7,7 +7,7 @@ I ordered a Powermate to test with:
 
 The build quality is good and the software doesn't require any coding to integrate as it allows for the various actions such as: turn left,turn right and press down, to map to keystrokes that get picked up by the application.
 
-## Performance ##
+### Performance
 
 **Grow the fractal over time to maintain interactive rates**
 
