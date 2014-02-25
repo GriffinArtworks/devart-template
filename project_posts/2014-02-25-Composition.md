@@ -74,5 +74,8 @@ M = RootMat*M;
 
 ![image](../project_images/comp/fractal7.png?raw=true "image")
 
-.
+.. some interesting patterns can form by randomly looking:
+
+![image](../project_images/comp/fractal8.png?raw=true "image")
+
 
