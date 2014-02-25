@@ -39,7 +39,7 @@ for(int i =MAX_DEPTH; i>= 1;--i)
 M = RootMat*M;
 ```
 
-# Results: #
+### Results: 
 
 2 child nodes, with slight scaling, 5 depths.  Looks quite normal:
 
