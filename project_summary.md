@@ -25,3 +25,12 @@ Provides an opportunity to think about some areas that I find personal interesti
 ## Images & Videos
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
+
+## Links to External Libraries
+
+[openframeworks](www.openframeworks.cc),
+[ofxJSON](https://github.com/jefftimesten/ofxJSON),
+[ofxHttpUtils](https://github.com/arturoc/ofxHttpUtils)
+
+[google API PHP Client](https://code.google.com/p/google-api-php-client/)
+
