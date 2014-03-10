@@ -24,7 +24,7 @@ Provides an opportunity to think about some areas that I find personal interesti
 
 ## Images & Videos
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
+![Example Image](project_images/mock.jpg?raw=true "Example Image")
 
 ## Links to External Libraries
 
