@@ -6,6 +6,7 @@
 #include "ofFbo.h"
 #include "GPUFractal.h"
 #include "GLTexture.h"
+#include "ofxHttpUtils.h"
 
 class testApp : public ofBaseApp{
 
@@ -19,6 +20,9 @@ class testApp : public ofBaseApp{
 		bool regenerate;
 		bool restart;
 		int continueDelay;
+
+		ofxHttpUtils httpUtils;
+
 		testApp();
 		void setup();
 		void update();
@@ -30,7 +34,7 @@ class testApp : public ofBaseApp{
 		void mousePressed(int x, int y, int button);
 		void mouseReleased(int x, int y, int button);
 		void windowResized(int w, int h);
-
+		void newResponse(ofxHttpResponse & response);
 };
 
 #endif

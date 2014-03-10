@@ -3,9 +3,28 @@
 #include "GLState.h"
 //--------------------------------------------------------------
 testApp::testApp(){
-	ofSetWindowPosition(0,0);
-	ofSetWindowShape(1680*2,1050);
+	//ofSetWindowPosition(0,0);
+	//ofSetWindowShape(1680*2,1050);
+	
+	ofSetWindowShape(1000,1000);
 	ofSetFrameRate(30);
+
+	string action_url = "https://www.googleapis.com/customsearch/v1?q=abstract%20painting&cx=017526475529247987911:0olbnkf5d8a&imgColorType=color&imgDominantColor=blue&imgSize=small&imgType=photo&searchType=image&num=10&key=AIzaSyACP9m_xbFpnIDrzqf5H6781dLEJActV2o";
+	ofAddListener(httpUtils.newResponseEvent,this,&testApp::newResponse);
+	httpUtils.start();
+	ofxHttpForm form;
+	form.action = action_url;
+	form.method = OFX_HTTP_GET;
+	//form.addFormField("number", ofToString(counter));
+	//form.addFile("file","ofw-logo.gif");
+	httpUtils.addForm(form);
+	//requestStr = "message sent: " + ofToString(counter);
+}
+
+void testApp::newResponse(ofxHttpResponse & response)
+{
+	cout <<ofToString(response.status) + ": " + (string)response.responseBody;
+	cout << endl;
 }
 
 //--------------------------------------------------------------
