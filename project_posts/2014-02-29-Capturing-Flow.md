@@ -11,26 +11,3 @@ So how do we apply this idea to what we have currently? Well, we're already draw
 ### Results
 
 ![image](../project_images/flow/Capture18.jpg?raw=true "image")
-
-![image](../project_images/flow/Capture20.jpg?raw=true "image")
-
-![image](../project_images/flow/Capture25.jpg?raw=true "image")
-
-![image](../project_images/flow/Capture29.jpg?raw=true "image")
-
-![image](../project_images/flow/Capture35.jpg?raw=true "image")
-
-![image](../project_images/flow/Capture37.jpg?raw=true "image")
-
-![image](../project_images/flow/Capture41.jpg?raw=true "image")
-
-Random one I found along the way. The colour map is mostly made of black which leads to the sparseness.
-
-![image](../project_images/flow/Capture32.jpg?raw=true "image")
-
-### Going wide
-
-[![image](../project_images/flow/Capture42.jpg?raw=true "image")
-
-I really like this one, it reminds me of the crests of tidal waves.  The wide aspect ratio helps to makes this interesting too so the setup could be 2 ultra thin bezel panels in landscape to mimic that of a panoramic canvas art print.
-
