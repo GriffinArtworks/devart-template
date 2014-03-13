@@ -22,24 +22,7 @@ output:
 ![image4](../project_images/flow/Capture29.jpg?raw=true "image4")
 
 .
-![image5](../project_images/flow/Capture29.jpg?raw=true "image5")
-
-.
 ![image6](../project_images/flow/Capture35.jpg?raw=true "image6")
 
 .
 ![image7](../project_images/flow/Capture37.jpg?raw=true "image7")
-
-.
-![image8](../project_images/flow/Capture41.jpg?raw=true "image8")
-
-Random one I found along the way. The colour map is mostly made of black which leads to the sparseness.
-
-![image9](../project_images/flow/Capture32.jpg?raw=true "image9")
-
-### Going wide
-
-[![image10](../project_images/flow/Capture42.jpg?raw=true "image10")
-
-I really like this one, it reminds me of the crests of tidal waves.  The wide aspect ratio helps to makes this interesting too so the setup could be 2 ultra thin bezel panels in landscape to mimic that of a panoramic canvas art print.
-
