@@ -18,3 +18,9 @@ Some output after experimenting with different colour maps.  Colour maps which i
 
 .
 ![image4](../project_images/colour/Capture59.jpg?raw=true "image4")
+
+.
+![image5](../project_images/colour/Capture63.jpg?raw=true "image5")
+
+.
+![image6](../project_images/colour/Capture64.jpg?raw=true "image6")
