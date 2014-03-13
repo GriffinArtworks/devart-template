@@ -30,3 +30,7 @@ Some output after experimenting with different colour maps.  Colour maps which i
 
 .
 ![image8](../project_images/colour/Capture66.jpg?raw=true "image8")
+
+.
+![image](../project_images/colour/Capture67.jpg?raw=true "image")
+
