@@ -26,3 +26,10 @@ output:
 
 .
 ![image7](../project_images/flow/Capture37.jpg?raw=true "image7")
+
+.
+![image8](../project_images/flow/Capture41.jpg?raw=true "image8")
+
+Random one I found along the way. The colour map is mostly made of black which leads to the sparseness.
+
+![image9](../project_images/flow/Capture32.jpg?raw=true "image9")
