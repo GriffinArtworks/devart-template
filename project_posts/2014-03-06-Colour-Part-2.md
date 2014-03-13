@@ -1,4 +1,4 @@
-###  Colour - Part 2
+###  Colour - Part 2, retry
 
 Some output after experimenting with different colour maps.  Colour maps which images obtained via the Google Custom Search API:
 
