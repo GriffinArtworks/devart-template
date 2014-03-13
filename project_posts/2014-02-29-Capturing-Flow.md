@@ -13,4 +13,4 @@ So how do we apply this idea to what we have currently? Well, we're already draw
 ![image](../project_images/flow/Capture18.jpg?raw=true "image")
 
 output:
-![image](../project_images/flow/Capture20.jpg?raw=true "image")
+![image2](../project_images/flow/Capture20.jpg?raw=true "image2")
